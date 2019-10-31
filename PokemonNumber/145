@@ -1,0 +1,9 @@
+<tr class=' UILinkedTableRow'>
+<td class='zapdos'>
+<a class="rowLink" href="/pokedex/pokemon/zapdos"><img src="/pokedex/images/mini/145.png" alt="145" />Zapdos</a>
+</td>
+<td>145</td>
+<td>---</td>
+<td class="electric"><img src="/pokedex/images/types/electric.gif" alt="Electric" /></td>
+<td class="flying"><img src="/pokedex/images/types/flying.gif" alt="Flying" /></td>
+<td>90</td><td>90</td><td>85</td><td>125</td><td>90</td><td>100</td><td>580</td>

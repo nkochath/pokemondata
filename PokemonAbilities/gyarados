@@ -1,0 +1,520 @@
+<!DOCTYPE html>
+<html lang=en>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <title>Gyarados #130 (Atrocious Pokemon) - Pokedex :: PokeDream</title>
+  <meta name="keywords" content="pokemon, pok&eacute;mon, pocket monsters, walkthrough, pokedex, pikachu, nintendo, games, rpg" />
+  <meta name="description" content="Rarely seen in the wild. Huge and vicious, it is capable of destroying entire cities in a rage."></meta><meta name="og:image" content="true"></meta>
+  <meta property="fb:page_id" content="161761667171212" />
+  <meta name="verify-v1" content="v9ay3dwTz7gabBIUAni03V8HOZG+ewv0zWGXSHiAi3s=" />
+  <link rel="shortcut icon" href="/favicon.ico" />
+  <link rel="stylesheet" type="text/css" href="/layout/pokedream.css" />
+  <link rel="stylesheet" media="screen" href="/pokedex/stylesheets/pokedex.css" />
+  <link rel="apple-touch-icon" href="/layout/images/mobile/touch-icon-iphone.png" />
+  <link rel="apple-touch-icon" sizes="76x76" href="/layout/images/mobile/touch-icon-ipad.png" />
+  <link rel="apple-touch-icon" sizes="120x120" href="/layout/images/mobile/touch-icon-iphone-2x.png" />
+  <link rel="apple-touch-icon" sizes="152x152" href="/layout/images/mobile/touch-icon-ipad-2x.png" />
+</head>
+<body id="section-pokedex">
+
+<div id="header" class="section-pokedex">
+  <div id="header-inner">
+    <div id="header-top">
+      <a href="/">
+        <img src="/layout/images/banner0.jpg" width="320" height="46" alt="PokeDream" />
+      </a>
+      <ul id="nav">
+        <li id="nav-main"><a href="/" class="nav-link">Main</a></li>
+        <li id="nav-pokedex"><a href="/pokedex" class="nav-link">Pokedex</a></li>
+        <li id="nav-games"><a href="/games" class="nav-link">Games</a></li>
+        <li id="nav-xy"><a href="/games/pokemon-xy/" class="nav-link">Pokemon X/Y</a></li>
+        <li id="nav-other"><a href="#" class="nav-link submenu-only">Other</a></li>
+      </ul>
+    </div>
+    <div id="subnav">
+      <form action="/pokedex/search" class="PDPokedexSearch" id="pokedexSearch" method="get">
+        <input autocomplete="off" class="searchInput" tabindex="1" type="text" name="query" maxlength="42" placeholder="Search for Pokemon in Pokedex" size="42" />
+        <input aria-hidden="true" autocomplete="off" class="searchInputCompleted" disabled type="text" maxlength="42" size="42" />
+        <input class="searchButton" name="search" type="image" src="/layout/images/pokedex_search_button.png" value="Search" />
+        <div class="searchResultsContainer">
+          <ul class="searchResults">
+          </ul>
+          <a class="viewAllLink" href="/pokedex/">
+            View all Pokemon
+            <span class="uiArrow arrowRight"></span>
+          </a>
+        </div>
+      </form>
+      <ul class="subnav" id="subnav-main">
+        <li><a href="/">Home</a></li>
+        <li><a href="/site/">About</a></li>
+        <li><a href="/dexios">Dex iPhone App</a></li>
+        <li><a href="/news/archive/">Old News</a></li>
+      </ul>
+      <ul class="subnav" id="subnav-pokedex">
+        <li><a href="/pokedex">Pokemon List</a></li>
+        <li><a href="/dexios">Dex iPhone App</a></li>
+      </ul>
+      <ul class="subnav" id="subnav-games">
+        <li><a href="/games/pokemon-xy/">Pokemon X/Y</a></li>
+        <li><a href="/games/blackwhite/">Black/White</a></li>
+        <li><a href="/games/diamondpearl/">Diamond/Pearl</a>/<a href="/games/platinum/">Platinum</a></li>
+        <li><a href="/games/rubysapph/">Ruby/Sapphire</a>/<a href="/games/emerald/">Emerald</a></li>
+        <li><a href="/games/">More »</a></li>
+      </ul>
+      <ul class="subnav" id="subnav-xy">
+      </ul>
+      <ul class="subnav" id="subnav-other">
+        <li><a href="/museum/">Museum</a></li>
+        <li><a href="/museum/">Fan Art</a></li>
+        <li><a href="/fans/fanfics/">Fan Fics</a></li>
+        <li><a href="/fans/pokelyrics/">Lyrics</a></li>
+        <li><a href="/pokemon/anime/">Anime</a></li>
+        <li><a href="/pokemon/tcg/">TCG</a></li>
+        <li><a href="/pokemon/infocenter/">InfoCenter</a></li>
+        <li><a href="/pokemon/funstuff/">Fun Stuff</a></li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<div id="content">
+  <div id="sidemenu">
+    <div class="section pokedex-featured"><a class="link" href="/pokedex/pokemon/binacle?ref=featured"><img class="image" src="/pokedex/images/blackwhite/front/688.png" alt="688" /><span class="text">Binacle <span class="uiArrow arrowRight"></span></span></a></div>
+    <div id="google-search" class="section">
+      <form action="http://www.google.com/cse" id="cse-search-box">
+        <input type="hidden" name="cx" value="partner-pub-1751948200611368:856zh05nw3b" />
+        <input type="hidden" name="ie" value="ISO-8859-1" />
+        <input type="text" name="q" size="13" />
+        <input type="submit" name="sa" value="Search" />
+      </form>
+      <script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
+    </div>
+
+    <div id="gg-side" class="gg section">
+      <script type="text/javascript">
+        e9 = new Object();
+        e9.size = "160x600,120x600";
+      </script>
+      <script type="text/javascript" src="http://tags.expo9.exponential.com/tags/pokedreamcom/ROS/tags.js"></script>
+    </div>
+
+    <div class="section">
+      <a href="/site/whosonline.php" id="whos-online">80 visitors online</a>
+    </div>
+
+    <div class="section">
+      <iframe id="like-button-side" src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FPokeDream%2F161761667171212&amp;layout=button_count&amp;show_faces=true&amp;width=160&amp;action=like&amp;font=lucida+grande&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+    </div>
+
+    <div id="affiliates" class="section">
+      <a id="affiliate-psypoke" class="main-sprite" href="http://psypokes.com" target="_blank" rel="nofollow"></a>
+    </div>
+  </div>
+
+  <div id="gg-top" class="gg gg-with-page-menu">
+    <script type="text/javascript">
+      e9 = new Object();
+      e9.size = '728x90,468x60';
+    </script>
+    <script type="text/javascript" src="http://tags.expo9.exponential.com/tags/pokedreamcom/ROS/tags.js"></script>
+  </div>
+
+  <div id="intelliTXT" class="content-area">
+  <!-- begin content -->
+
+  <div class='uiSideMenu pokedexPokemonSideMenu'>
+<h1 class='header category'>
+Gyarados
+<span class='number'>#130</span>
+</h1>
+<div class='section'>
+<h2 class='subheader'>Sections</h2>
+<ul>
+<li><a href="#general">General</a></li>
+<li><a href="#family">Evolutions</a></li>
+<li><a href="#breeding">Breeding</a></li>
+<li><a href="#locations">Locations</a></li>
+<li><a href="#abilities">Abilities</a></li>
+<li><a href="#level-moves">Level-up Moves</a></li>
+<li><a href="#machine-moves">TMs/HMs</a></li>
+<li><a href="#egg-moves">Egg Moves</a></li>
+<li><a href="#stats">Stats</a></li>
+<li><a href="#images">Images</a></li>
+<li><a href="#flavortext">Flavor Text</a></li>
+</ul>
+</div>
+<div class='section'>
+<h2 class='subheader'>Generations</h2>
+<ul><li class="current" title="Red/Blue/Yellow Pokedex">1st (RBY)</li><li title="Gold/Silver/Crystal Pokedex"><a href="/pokedex/pokemon/gyarados?gen=2">2nd (GSC)</a></li><li title="Ruby/Sapphire/Emerald, FireRed/LeafGreen Pokedex"><a href="/pokedex/pokemon/gyarados?gen=3">3rd (RSE)</a></li><li title="Diamond/Pearl/Platinum, HeartGold/SoulSilver Pokedex"><a href="/pokedex/pokemon/gyarados?gen=4">4th (DPPl)</a></li><li title="Black/White, Black 2/White 2 Pokedex"><a href="/pokedex/pokemon/gyarados?gen=5">5th (BW)</a></li><li title="Pokemon X/Y Pokedex"><a href="/pokedex/pokemon/gyarados?gen=6">6th (XY)</a></li></ul>
+</div>
+<div class='section'>
+<h2 class='subheader'>More Pokemon</h2>
+<ul>
+<li class='detailer'>
+<a class="detailer" ajaxify="/pokedex/pokemon/1/list" href="/pokedex/pokemon?display=gen1">#001 - #151</a>
+</li>
+<li class='detailer'>
+<a class="detailer" ajaxify="/pokedex/pokemon/2/list" href="/pokedex/pokemon?display=gen2">#152 - #251</a>
+</li>
+<li class='detailer'>
+<a class="detailer" ajaxify="/pokedex/pokemon/3/list" href="/pokedex/pokemon?display=gen3">#252 - #386</a>
+</li>
+<li class='detailer'>
+<a class="detailer" ajaxify="/pokedex/pokemon/4/list" href="/pokedex/pokemon?display=gen4">#387 - #493</a>
+</li>
+<li class='detailer'>
+<a class="detailer" ajaxify="/pokedex/pokemon/5/list" href="/pokedex/pokemon?display=gen5">#494 - #649</a>
+</li>
+<li class='detailer'>
+<a class="detailer" ajaxify="/pokedex/pokemon/6/list" href="/pokedex/pokemon?display=gen6">#650 - #718</a>
+</li>
+<li><a href="/pokedex/pokemon/random">Random</a></li>
+</ul>
+</div>
+</div>
+
+<div class='pokedexContent hasSideMenu pokedexPokemonPage'>
+<table id="previous_next"><tr><td class="previous"><a href="/pokedex/pokemon/magikarp">&larr; <img src="/pokedex/images/mini/129.gif" alt="129" /> #129 Magikarp </a></td><td class="next"><a href="/pokedex/pokemon/lapras"> #131 Lapras <img src="/pokedex/images/mini/131.gif" alt="131" /> &rarr;</a></td></tr></table>
+<div class='section' id='general'>
+<h1 class='title'>
+<img alt="Gyarados" title="Gyarados" src="/pokedex/images/mini/130.gif" />
+<span class='name'>Gyarados</span>
+#130
+ - Atrocious Pokemon
+</h1>
+<table>
+<tr>
+<td id='picture' rowspan='5'>
+<img class="main-picture" alt="Gyarados" title="Gyarados" src="/pokedex/images/sugimori/130.jpg" />
+<div class='triggers'>
+<img id="pokecry-trigger" alt="Hear Gyarados&#39;s Cry" title="Hear Gyarados&#39;s Cry" src="/pokedex/images/categories/cry.gif" />
+<div id='pokecry'></div>
+</div>
+</td>
+<th>types</th>
+<td class="water" colspan="1"><img alt="Water" title="Water" src="/pokedex/images/types/water.gif" /></td><td class="flying" colspan="1"><img alt="Flying" title="Flying" src="/pokedex/images/types/flying.gif" /></td>
+</tr>
+<tr>
+<th>gender</th>
+<td class="male" colspan="1">50.0% <img alt="Male" src="/pokedex/images/misc/male.gif" /></td><td class="female" colspan="1">50.0% <img alt="Female" src="/pokedex/images/misc/female.gif" /></td>
+</tr>
+<tr>
+<th>height</th>
+<td>21'4&quot;</td>
+<td>6.5 m</td>
+</tr>
+<tr>
+<th>weight</th>
+<td>518.2 lb.</td>
+<td>235.0 kg</td>
+</tr>
+<tr>
+<th>generation</th>
+<td colspan='2'>
+<div class="topic">1st (<a href="/games/redblue/">Red, Blue, Yellow</a>)</div><div><span class="topic">National: </span>#130 | <span class="topic">Johto: </span>#077 | <span class="topic">Hoenn: </span>#053 | <span class="topic">Sinnoh: </span>#024</div>
+</td>
+</tr>
+</table>
+<div class='hidden' id='identifier'>130</div>
+</div>
+
+<div class='section' id='family'>
+<h2>
+<img alt="Family" src="/pokedex/images/categories/evolutions.gif" />
+Family
+</h2>
+<div class='sub-section'><table><tr><td rowspan="1" class="evolution_entry"><a href="/pokedex/pokemon/magikarp"><div><div><img class="evolution_method" src="/pokedex/images/evolutions/general.gif" alt="General" /><img src="/pokedex/images/blackwhite/front/129.png" alt="129" /></div><div class="name">#129 - Magikarp</div></div></a></td><td rowspan="1" class="evolution_entry current"><div><div><img class="evolution_method" src="/pokedex/images/evolutions/level.gif" alt="Level" /><img src="/pokedex/images/blackwhite/front/130.png" alt="130" /></div><div class="name">#130 - Gyarados</div>Lv. 20</div></td></tr></table></div>
+<div class='sub-section' id='breeding'>
+<h3>Breeding</h3>
+<table>
+<tr>
+<th>Egg Groups</th>
+<th>Steps to Hatch</th>
+</tr>
+<tr>
+<td id='egg-groups'><span ajaxify="/pokedex/breeding/12/pokemon" class="detailer">Water 2</span> | <span ajaxify="/pokedex/breeding/14/pokemon" class="detailer">Dragon</span></td>
+<td>1,275</td>
+</tr>
+</table>
+</div>
+</div>
+
+<div class='section' id='locations'>
+<h2>
+<img src="/pokedex/images/mini/130.png" alt="130" />
+Locations
+</h2>
+<div class='sub-section'>
+<h3>Where to catch Gyarados in Pokemon Yellow</h3>
+<table>
+<tr class="header"><th>Area</th><th>Levels</th><th>Method</th><th>Rarity</th></tr>
+<tr class=" alt UILinkedTableRow"><td class="text"><a class="rowLink" href="/pokedex/locations/fuchsia-city">Fuchsia City</a></td><td class="levels">15</td><td class="text">Fishing with a Super Rod</td><td class="rarity">10%</td></tr>
+</table>
+</div>
+</div>
+
+<div class='gg-rect'><script type="text/javascript">
+      e9 = new Object();
+      e9.size = "336x280,300x250";
+    </script>
+    <script type="text/javascript" src="http://tags.expo9.exponential.com/tags/pokedreamcom/ROS/tags.js"></script></div>
+<div class='section' id='moves'>
+<h2>
+<img alt="Moves" title="Moves" src="/pokedex/images/categories/moves.gif" />
+Moves
+</h2>
+<div class='sub-section' id='abilities'>
+<h3>Abilities</h3>
+<table>
+<tr ajaxify="/pokedex/abilities/22/pokemon" class="detailer"><td class="name">Intimidate</td><td class="text">Lowers opponents&#39; Attack one stage upon entering battle.</td></tr>
+</table>
+</div>
+<div class='sub-section' id='level-moves'>
+<h3>Level-up Moves</h3>
+<table>
+<tr class="header"><th>Lv.</th><th>Move</th><th>Type</th><th>Class</th><th>Pow.</th><th>PP</th><th>Acc.</th><th>Effect</th></tr>
+<tr id="moves_33" class="detailer  alt" ajaxify="/pokedex/moves/33/pokemon?gen=1&amp;type=level"><td class="level">1</td><td class="name">Tackle</td><td class="normal"><img alt="Normal" title="Normal" src="/pokedex/images/types/normal.gif" /></td><td><img alt="Physical" title="Physical" src="/pokedex/images/types/physical.gif" /></td><td>50</td><td>35</td><td>100%</td><td class="text">Inflicts regular damage with no additional effect.</td></tr><tr id="moves_44" class="detailer  alt" ajaxify="/pokedex/moves/44/pokemon?gen=1&amp;type=level"><td class="level">20</td><td class="name">Bite</td><td class="dark"><img alt="Dark" title="Dark" src="/pokedex/images/types/dark.gif" /></td><td><img alt="Physical" title="Physical" src="/pokedex/images/types/physical.gif" /></td><td>60</td><td>25</td><td>100%</td><td class="text">Has a 30% chance to make the target flinch.</td></tr><tr id="moves_82" class="detailer  alt" ajaxify="/pokedex/moves/82/pokemon?gen=1&amp;type=level"><td class="level">25</td><td class="name">Dragon Rage</td><td class="dragon"><img alt="Dragon" title="Dragon" src="/pokedex/images/types/dragon.gif" /></td><td><img alt="Special" title="Special" src="/pokedex/images/types/special.gif" /></td><td>1</td><td>10</td><td>100%</td><td class="text">Inflicts 40 points of damage.</td></tr><tr id="moves_43" class="detailer  alt" ajaxify="/pokedex/moves/43/pokemon?gen=1&amp;type=level"><td class="level">32</td><td class="name">Leer</td><td class="normal"><img alt="Normal" title="Normal" src="/pokedex/images/types/normal.gif" /></td><td><img alt="None" title="None" src="/pokedex/images/types/none.gif" /></td><td>--</td><td>30</td><td>100%</td><td class="text">Lowers the target&#39;s Defense by one stage.</td></tr><tr id="moves_56" class="detailer  alt" ajaxify="/pokedex/moves/56/pokemon?gen=1&amp;type=level"><td class="level">41</td><td class="name">Hydro Pump</td><td class="water"><img alt="Water" title="Water" src="/pokedex/images/types/water.gif" /></td><td><img alt="Special" title="Special" src="/pokedex/images/types/special.gif" /></td><td>120</td><td>5</td><td>80%</td><td class="text">Inflicts regular damage with no additional effect.</td></tr><tr id="moves_63" class="detailer  alt" ajaxify="/pokedex/moves/63/pokemon?gen=1&amp;type=level"><td class="level">52</td><td class="name">Hyper Beam</td><td class="normal"><img alt="Normal" title="Normal" src="/pokedex/images/types/normal.gif" /></td><td><img alt="Special" title="Special" src="/pokedex/images/types/special.gif" /></td><td>150</td><td>5</td><td>90%</td><td class="text">User foregoes its next turn to recharge.</td></tr>
+</table>
+</div>
+<div class='sub-section' id='machine-moves'>
+<h3>TMs/HMs</h3>
+<table>
+<tr class="header"><th>#</th><th>Move</th><th>Type</th><th>Class</th><th>Pow.</th><th>PP</th><th>Acc.</th><th>Effect</th></tr>
+<tr id="moves_92" class="detailer  alt" ajaxify="/pokedex/moves/92/pokemon?gen=1&amp;type=machine"><td class="level">TM6</td><td class="name">Toxic</td><td class="poison"><img alt="Poison" title="Poison" src="/pokedex/images/types/poison.gif" /></td><td><img alt="None" title="None" src="/pokedex/images/types/none.gif" /></td><td>--</td><td>10</td><td>90%</td><td class="text">Badly poisons the target, inflicting more damage every turn.</td></tr><tr id="moves_34" class="detailer  alt" ajaxify="/pokedex/moves/34/pokemon?gen=1&amp;type=machine"><td class="level">TM8</td><td class="name">Body Slam</td><td class="normal"><img alt="Normal" title="Normal" src="/pokedex/images/types/normal.gif" /></td><td><img alt="Physical" title="Physical" src="/pokedex/images/types/physical.gif" /></td><td>85</td><td>15</td><td>100%</td><td class="text">Has a 30% chance to paralyze the target.</td></tr><tr id="moves_36" class="detailer  alt" ajaxify="/pokedex/moves/36/pokemon?gen=1&amp;type=machine"><td class="level">TM9</td><td class="name">Take Down</td><td class="normal"><img alt="Normal" title="Normal" src="/pokedex/images/types/normal.gif" /></td><td><img alt="Physical" title="Physical" src="/pokedex/images/types/physical.gif" /></td><td>90</td><td>20</td><td>85%</td><td class="text">User receives 1/4 the damage it inflicts in recoil.</td></tr><tr id="moves_38" class="detailer  alt" ajaxify="/pokedex/moves/38/pokemon?gen=1&amp;type=machine"><td class="level">TM10</td><td class="name">Double-edge</td><td class="normal"><img alt="Normal" title="Normal" src="/pokedex/images/types/normal.gif" /></td><td><img alt="Physical" title="Physical" src="/pokedex/images/types/physical.gif" /></td><td>120</td><td>15</td><td>100%</td><td class="text">User receives 1/3 the damage inflicted in recoil.</td></tr><tr id="moves_61" class="detailer  alt" ajaxify="/pokedex/moves/61/pokemon?gen=1&amp;type=machine"><td class="level">TM11</td><td class="name">Bubblebeam</td><td class="water"><img alt="Water" title="Water" src="/pokedex/images/types/water.gif" /></td><td><img alt="Special" title="Special" src="/pokedex/images/types/special.gif" /></td><td>65</td><td>20</td><td>100%</td><td class="text">Has a 10% chance to lower the target&#39;s Speed by one stage.</td></tr><tr id="moves_55" class="detailer  alt" ajaxify="/pokedex/moves/55/pokemon?gen=1&amp;type=machine"><td class="level">TM12</td><td class="name">Water Gun</td><td class="water"><img alt="Water" title="Water" src="/pokedex/images/types/water.gif" /></td><td><img alt="Special" title="Special" src="/pokedex/images/types/special.gif" /></td><td>40</td><td>25</td><td>100%</td><td class="text">Inflicts regular damage with no additional effect.</td></tr><tr id="moves_58" class="detailer  alt" ajaxify="/pokedex/moves/58/pokemon?gen=1&amp;type=machine"><td class="level">TM13</td><td class="name">Ice Beam</td><td class="ice"><img alt="Ice" title="Ice" src="/pokedex/images/types/ice.gif" /></td><td><img alt="Special" title="Special" src="/pokedex/images/types/special.gif" /></td><td>95</td><td>10</td><td>100%</td><td class="text">Has a 10% chance to freeze the target.</td></tr><tr id="moves_59" class="detailer  alt" ajaxify="/pokedex/moves/59/pokemon?gen=1&amp;type=machine"><td class="level">TM14</td><td class="name">Blizzard</td><td class="ice"><img alt="Ice" title="Ice" src="/pokedex/images/types/ice.gif" /></td><td><img alt="Special" title="Special" src="/pokedex/images/types/special.gif" /></td><td>120</td><td>5</td><td>70%</td><td class="text">Has a 10% chance to freeze the target.</td></tr><tr id="moves_63" class="detailer  alt" ajaxify="/pokedex/moves/63/pokemon?gen=1&amp;type=machine"><td class="level">TM15</td><td class="name">Hyper Beam</td><td class="normal"><img alt="Normal" title="Normal" src="/pokedex/images/types/normal.gif" /></td><td><img alt="Special" title="Special" src="/pokedex/images/types/special.gif" /></td><td>150</td><td>5</td><td>90%</td><td class="text">User foregoes its next turn to recharge.</td></tr><tr id="moves_99" class="detailer  alt" ajaxify="/pokedex/moves/99/pokemon?gen=1&amp;type=machine"><td class="level">TM20</td><td class="name">Rage</td><td class="normal"><img alt="Normal" title="Normal" src="/pokedex/images/types/normal.gif" /></td><td><img alt="Physical" title="Physical" src="/pokedex/images/types/physical.gif" /></td><td>20</td><td>20</td><td>100%</td><td class="text">If the user is hit after using this move, its Attack rises by one stage.</td></tr><tr id="moves_82" class="detailer  alt" ajaxify="/pokedex/moves/82/pokemon?gen=1&amp;type=machine"><td class="level">TM23</td><td class="name">Dragon Rage</td><td class="dragon"><img alt="Dragon" title="Dragon" src="/pokedex/images/types/dragon.gif" /></td><td><img alt="Special" title="Special" src="/pokedex/images/types/special.gif" /></td><td>1</td><td>10</td><td>100%</td><td class="text">Inflicts 40 points of damage.</td></tr><tr id="moves_85" class="detailer  alt" ajaxify="/pokedex/moves/85/pokemon?gen=1&amp;type=machine"><td class="level">TM24</td><td class="name">Thunderbolt</td><td class="electric"><img alt="Electric" title="Electric" src="/pokedex/images/types/electric.gif" /></td><td><img alt="Special" title="Special" src="/pokedex/images/types/special.gif" /></td><td>95</td><td>15</td><td>100%</td><td class="text">Has a 10% chance to paralyze the target.</td></tr><tr id="moves_87" class="detailer  alt" ajaxify="/pokedex/moves/87/pokemon?gen=1&amp;type=machine"><td class="level">TM25</td><td class="name">Thunder</td><td class="electric"><img alt="Electric" title="Electric" src="/pokedex/images/types/electric.gif" /></td><td><img alt="Special" title="Special" src="/pokedex/images/types/special.gif" /></td><td>120</td><td>10</td><td>70%</td><td class="text">Has a 30% chance to paralyze the target.</td></tr><tr id="moves_102" class="detailer  alt" ajaxify="/pokedex/moves/102/pokemon?gen=1&amp;type=machine"><td class="level">TM31</td><td class="name">Mimic</td><td class="normal"><img alt="Normal" title="Normal" src="/pokedex/images/types/normal.gif" /></td><td><img alt="None" title="None" src="/pokedex/images/types/none.gif" /></td><td>--</td><td>10</td><td>--</td><td class="text">Copies the target&#39;s last used move.</td></tr><tr id="moves_104" class="detailer  alt" ajaxify="/pokedex/moves/104/pokemon?gen=1&amp;type=machine"><td class="level">TM32</td><td class="name">Double Team</td><td class="normal"><img alt="Normal" title="Normal" src="/pokedex/images/types/normal.gif" /></td><td><img alt="None" title="None" src="/pokedex/images/types/none.gif" /></td><td>--</td><td>15</td><td>--</td><td class="text">Raises the user&#39;s evasion by one stage.</td></tr><tr id="moves_115" class="detailer  alt" ajaxify="/pokedex/moves/115/pokemon?gen=1&amp;type=machine"><td class="level">TM33</td><td class="name">Reflect</td><td class="psychic"><img alt="Psychic" title="Psychic" src="/pokedex/images/types/psychic.gif" /></td><td><img alt="None" title="None" src="/pokedex/images/types/none.gif" /></td><td>--</td><td>20</td><td>--</td><td class="text">Reduces damage from physical attacks by half.</td></tr><tr id="moves_117" class="detailer  alt" ajaxify="/pokedex/moves/117/pokemon?gen=1&amp;type=machine"><td class="level">TM34</td><td class="name">Bide</td><td class="normal"><img alt="Normal" title="Normal" src="/pokedex/images/types/normal.gif" /></td><td><img alt="Physical" title="Physical" src="/pokedex/images/types/physical.gif" /></td><td>1</td><td>10</td><td>--</td><td class="text">User waits for 2-3 turns, then hits back for twice the damage it took.</td></tr><tr id="moves_126" class="detailer  alt" ajaxify="/pokedex/moves/126/pokemon?gen=1&amp;type=machine"><td class="level">TM38</td><td class="name">Fire Blast</td><td class="fire"><img alt="Fire" title="Fire" src="/pokedex/images/types/fire.gif" /></td><td><img alt="Special" title="Special" src="/pokedex/images/types/special.gif" /></td><td>120</td><td>5</td><td>85%</td><td class="text">Has a 10% chance to burn the target.</td></tr><tr id="moves_130" class="detailer  alt" ajaxify="/pokedex/moves/130/pokemon?gen=1&amp;type=machine"><td class="level">TM40</td><td class="name">Skull Bash</td><td class="normal"><img alt="Normal" title="Normal" src="/pokedex/images/types/normal.gif" /></td><td><img alt="Physical" title="Physical" src="/pokedex/images/types/physical.gif" /></td><td>100</td><td>15</td><td>100%</td><td class="text">Raises the user&#39;s Defense by one stage.  User charges for one turn before attacking.</td></tr><tr id="moves_156" class="detailer  alt" ajaxify="/pokedex/moves/156/pokemon?gen=1&amp;type=machine"><td class="level">TM44</td><td class="name">Rest</td><td class="psychic"><img alt="Psychic" title="Psychic" src="/pokedex/images/types/psychic.gif" /></td><td><img alt="None" title="None" src="/pokedex/images/types/none.gif" /></td><td>--</td><td>10</td><td>--</td><td class="text">User sleeps for two turns, completely healing itself.</td></tr><tr id="moves_164" class="detailer  alt" ajaxify="/pokedex/moves/164/pokemon?gen=1&amp;type=machine"><td class="level">TM50</td><td class="name">Substitute</td><td class="normal"><img alt="Normal" title="Normal" src="/pokedex/images/types/normal.gif" /></td><td><img alt="None" title="None" src="/pokedex/images/types/none.gif" /></td><td>--</td><td>10</td><td>--</td><td class="text">Transfers 1/4 of the user&#39;s max HP into a doll, protecting the user from further damage or status changes until it breaks.</td></tr><tr id="moves_57" class="detailer  alt" ajaxify="/pokedex/moves/57/pokemon?gen=1&amp;type=machine"><td class="level">HM3</td><td class="name">Surf</td><td class="water"><img alt="Water" title="Water" src="/pokedex/images/types/water.gif" /></td><td><img alt="Special" title="Special" src="/pokedex/images/types/special.gif" /></td><td>95</td><td>15</td><td>100%</td><td class="text">Inflicts regular damage and can hit Dive users.</td></tr><tr id="moves_70" class="detailer  alt" ajaxify="/pokedex/moves/70/pokemon?gen=1&amp;type=machine"><td class="level">HM4</td><td class="name">Strength</td><td class="normal"><img alt="Normal" title="Normal" src="/pokedex/images/types/normal.gif" /></td><td><img alt="Physical" title="Physical" src="/pokedex/images/types/physical.gif" /></td><td>80</td><td>15</td><td>100%</td><td class="text">Inflicts regular damage with no additional effect.</td></tr>
+</table>
+</div>
+</div>
+
+<div class='section' id='stats'>
+<h2>
+<img alt="Stats" title="Stats" src="/pokedex/images/categories/stats.gif" />
+Stats
+</h2>
+<div class='sub-section'>
+<table>
+<colgroup class='label'></colgroup>
+<colgroup class='label'></colgroup>
+<tr>
+<th>
+<span class='small'>at level 100</span>
+</th>
+<th>Base</th>
+<th>
+Hindering
+<span>(90%)</span>
+</th>
+<th>
+Neutral
+<span>(100%)</span>
+</th>
+<th>
+Beneficial
+<span>(110%)</span>
+</th>
+</tr>
+<tr><th>HP</th><td><b>95</b><div class="statbar"><img width="48" src="/pokedex/images/misc/statbar.gif" alt="Statbar" /></div></td><td>300 - 394</td><td>300 - 394</td><td>300 - 394</td></tr><tr><th>Attack</th><td><b>125</b><div class="statbar"><img width="63" src="/pokedex/images/misc/statbar.gif" alt="Statbar" /></div></td><td>229 - 314</td><td>255 - 349</td><td>280 - 383</td></tr><tr><th>Defense</th><td><b>79</b><div class="statbar"><img width="40" src="/pokedex/images/misc/statbar.gif" alt="Statbar" /></div></td><td>146 - 231</td><td>163 - 257</td><td>179 - 282</td></tr><tr><th>Sp. Attack</th><td><b>60</b><div class="statbar"><img width="30" src="/pokedex/images/misc/statbar.gif" alt="Statbar" /></div></td><td>112 - 197</td><td>125 - 219</td><td>137 - 240</td></tr><tr><th>Sp. Defense</th><td><b>100</b><div class="statbar"><img width="50" src="/pokedex/images/misc/statbar.gif" alt="Statbar" /></div></td><td>184 - 269</td><td>205 - 299</td><td>225 - 328</td></tr><tr><th>Speed</th><td><b>81</b><div class="statbar"><img width="41" src="/pokedex/images/misc/statbar.gif" alt="Statbar" /></div></td><td>150 - 234</td><td>167 - 261</td><td>183 - 287</td></tr>
+<tr>
+<th>TOTAL</th>
+<td>
+<b>540</b>
+<div class="statbar"><img width="45" src="/pokedex/images/misc/statbar.gif" alt="Statbar" /></div>
+</td>
+<th colspan='3'></th>
+</tr>
+</table>
+</div>
+<div class='sub-section'>
+<h3>Other Stats</h3>
+<table>
+<tr>
+<th>Base Experience</th>
+<th>Max Experience</th>
+<th>Catch Rate</th>
+<th>Happiness</th>
+<th>EV Yields</th>
+</tr>
+<tr>
+<td>214</td>
+<td>1,250,000</td>
+<td>45</td>
+<td>70</td>
+<td><span class="topic">Attack: </span>2 points<br /></td>
+</tr>
+</table>
+</div>
+<div class='sub-section'>
+<h3>Damage Taken</h3>
+<table>
+<tr>
+<td>
+<div class='damageFactorBlock'>
+<img class="damageFactorType" alt="Normal" title="Normal" src="/pokedex/images/types/normal.gif" />
+1x
+</div>
+<div class='damageFactorBlock notEffective'>
+<img class="damageFactorType" alt="Fighting" title="Fighting" src="/pokedex/images/types/fighting.gif" />
+0.5x
+</div>
+<div class='damageFactorBlock'>
+<img class="damageFactorType" alt="Flying" title="Flying" src="/pokedex/images/types/flying.gif" />
+1x
+</div>
+<div class='damageFactorBlock'>
+<img class="damageFactorType" alt="Poison" title="Poison" src="/pokedex/images/types/poison.gif" />
+1x
+</div>
+<div class='damageFactorBlock notEffective'>
+<img class="damageFactorType" alt="Ground" title="Ground" src="/pokedex/images/types/ground.gif" />
+0x
+</div>
+<div class='damageFactorBlock superEffective'>
+<img class="damageFactorType" alt="Rock" title="Rock" src="/pokedex/images/types/rock.gif" />
+2x
+</div>
+<div class='damageFactorBlock notEffective'>
+<img class="damageFactorType" alt="Bug" title="Bug" src="/pokedex/images/types/bug.gif" />
+0.5x
+</div>
+<div class='damageFactorBlock'>
+<img class="damageFactorType" alt="Ghost" title="Ghost" src="/pokedex/images/types/ghost.gif" />
+1x
+</div>
+<div class='damageFactorBlock notEffective'>
+<img class="damageFactorType" alt="Steel" title="Steel" src="/pokedex/images/types/steel.gif" />
+0.5x
+</div>
+<div class='damageFactorBlock notEffective'>
+<img class="damageFactorType" alt="Fire" title="Fire" src="/pokedex/images/types/fire.gif" />
+0.5x
+</div>
+<div class='damageFactorBlock notEffective'>
+<img class="damageFactorType" alt="Water" title="Water" src="/pokedex/images/types/water.gif" />
+0.5x
+</div>
+<div class='damageFactorBlock'>
+<img class="damageFactorType" alt="Grass" title="Grass" src="/pokedex/images/types/grass.gif" />
+1x
+</div>
+<div class='damageFactorBlock superEffective'>
+<img class="damageFactorType" alt="Electric" title="Electric" src="/pokedex/images/types/electric.gif" />
+4x
+</div>
+<div class='damageFactorBlock'>
+<img class="damageFactorType" alt="Psychic" title="Psychic" src="/pokedex/images/types/psychic.gif" />
+1x
+</div>
+<div class='damageFactorBlock'>
+<img class="damageFactorType" alt="Ice" title="Ice" src="/pokedex/images/types/ice.gif" />
+1x
+</div>
+<div class='damageFactorBlock'>
+<img class="damageFactorType" alt="Dragon" title="Dragon" src="/pokedex/images/types/dragon.gif" />
+1x
+</div>
+<div class='damageFactorBlock'>
+<img class="damageFactorType" alt="Dark" title="Dark" src="/pokedex/images/types/dark.gif" />
+1x
+</div>
+<div class='damageFactorBlock'>
+<img class="damageFactorType" alt="Fairy" title="Fairy" src="/pokedex/images/types/fairy.gif" />
+1x
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+
+<div class='section' id='images'>
+<h2>
+<img alt="Images" title="Images" src="/pokedex/images/categories/images.gif" />
+Images
+</h2>
+<table>
+<colgroup class='label'></colgroup>
+<tr><td class="bla">Black</td><td class="text" rowspan="2"><img alt="Gyarados" title="Gyarados" src="/pokedex/images/blackwhite/front/130.png" /><img alt="Gyarados" title="Gyarados" src="/pokedex/images/blackwhite/front-alt/130.png" /><img alt="Gyarados" title="Gyarados" src="/pokedex/images/blackwhite/back/130.png" /><img alt="Gyarados" title="Gyarados" src="/pokedex/images/blackwhite/back-alt/130.png" /></td></tr><tr><td class="whi">White</td></tr><tr><td class="dia">Diamond</td><td class="text" rowspan="2"><img alt="Gyarados" title="Gyarados" src="/pokedex/images/diamondpearl/front/130.png" /><img alt="Gyarados" title="Gyarados" src="/pokedex/images/diamondpearl/front-alt/130.png" /><img alt="Gyarados" title="Gyarados" src="/pokedex/images/diamondpearl/back/130.png" /><img alt="Gyarados" title="Gyarados" src="/pokedex/images/diamondpearl/back-alt/130.png" /></td></tr><tr><td class="pea">Pearl</td></tr><tr><td class="pla">Platinum</td><td class="text" rowspan="1"><img alt="Gyarados" title="Gyarados" src="/pokedex/images/platinum/front/130.png" /><img alt="Gyarados" title="Gyarados" src="/pokedex/images/platinum/front-alt/130.png" /><img alt="Gyarados" title="Gyarados" src="/pokedex/images/platinum/back/130.png" /><img alt="Gyarados" title="Gyarados" src="/pokedex/images/platinum/back-alt/130.png" /></td></tr><tr><td class="hea">HeartGold</td><td class="text" rowspan="2"><img alt="Gyarados" title="Gyarados" src="/pokedex/images/heartgoldsoulsilver/front/130.png" /><img alt="Gyarados" title="Gyarados" src="/pokedex/images/heartgoldsoulsilver/front-alt/130.png" /><img alt="Gyarados" title="Gyarados" src="/pokedex/images/heartgoldsoulsilver/back/130.png" /><img alt="Gyarados" title="Gyarados" src="/pokedex/images/heartgoldsoulsilver/back-alt/130.png" /></td></tr><tr><td class="sou">SoulSilver</td></tr><tr><td class="rub">Ruby</td><td class="text" rowspan="2"><img alt="Gyarados" title="Gyarados" src="/pokedex/images/rubysapphire/front/130.png" /><img alt="Gyarados" title="Gyarados" src="/pokedex/images/rubysapphire/front-alt/130.png" /><img alt="Gyarados" title="Gyarados" src="/pokedex/images/rubysapphire/back/130.png" /><img alt="Gyarados" title="Gyarados" src="/pokedex/images/rubysapphire/back-alt/130.png" /></td></tr><tr><td class="sap">Sapphire</td></tr><tr><td class="eme">Emerald</td><td class="text" rowspan="1"><img alt="Gyarados" title="Gyarados" src="/pokedex/images/emerald/front/130.png" /><img alt="Gyarados" title="Gyarados" src="/pokedex/images/emerald/front-alt/130.png" /></td></tr><tr><td class="fir">FireRed</td><td class="text" rowspan="2"><img alt="Gyarados" title="Gyarados" src="/pokedex/images/fireredleafgreen/front/130.png" /><img alt="Gyarados" title="Gyarados" src="/pokedex/images/fireredleafgreen/front-alt/130.png" /><img alt="Gyarados" title="Gyarados" src="/pokedex/images/fireredleafgreen/back/130.png" /><img alt="Gyarados" title="Gyarados" src="/pokedex/images/fireredleafgreen/back-alt/130.png" /></td></tr><tr><td class="lea">LeafGreen</td></tr><tr><td class="gol">Gold</td><td class="text" rowspan="2"><img alt="Gyarados" title="Gyarados" src="/pokedex/images/gold/front/130.png" /><img alt="Gyarados" title="Gyarados" src="/pokedex/images/gold/front-alt/130.png" /><img alt="Gyarados" title="Gyarados" src="/pokedex/images/gold/back/130.png" /><img alt="Gyarados" title="Gyarados" src="/pokedex/images/gold/back-alt/130.png" /></td></tr><tr><td class="sil">Silver</td></tr><tr><td class="cry">Crystal</td><td class="text" rowspan="1"><img alt="Gyarados" title="Gyarados" src="/pokedex/images/crystal/front/130.gif" /><img alt="Gyarados" title="Gyarados" src="/pokedex/images/crystal/front-alt/130.gif" /><img alt="Gyarados" title="Gyarados" src="/pokedex/images/crystal/back/130.png" /><img alt="Gyarados" title="Gyarados" src="/pokedex/images/crystal/back-alt/130.png" /></td></tr><tr><td class="red">Red</td><td class="text" rowspan="2"><img alt="Gyarados" title="Gyarados" src="/pokedex/images/redblue/front/130.png" /><img alt="Gyarados" title="Gyarados" src="/pokedex/images/redblue/back/130.png" /></td></tr><tr><td class="blu">Blue</td></tr><tr><td class="yel">Yellow</td><td class="text" rowspan="1"><img alt="Gyarados" title="Gyarados" src="/pokedex/images/yellow/front/130.png" /><img alt="Gyarados" title="Gyarados" src="/pokedex/images/yellow/back/130.png" /></td></tr>
+</table>
+</div>
+
+<div class='section' id='flavortext'>
+<h2>
+<img alt="Flavor Text" title="Flavor Text" src="/pokedex/images/categories/flavortext.gif" />
+Flavortext
+</h2>
+<table>
+<colgroup class='label'></colgroup>
+<tr><td class="bl2">Black 2</td><td class="text" rowspan="4">Once it begins to rampage, a Gyarados will burn everything down, even in a harsh storm.</td></tr><tr><td class="wh2">White 2</td></tr><tr><td class="bla">Black</td></tr><tr><td class="whi">White</td></tr><tr><td class="dia">Diamond</td><td class="text" rowspan="3">Once it appears, its rage never settles until it has razed the fields and mountains around it.</td></tr><tr><td class="pea">Pearl</td></tr><tr><td class="pla">Platinum</td></tr><tr><td class="hea">HeartGold</td><td class="text" rowspan="1">They say that during past strife, GYARADOS would appear and leave blazing ruins in its wake.</td></tr><tr><td class="sou">SoulSilver</td><td class="text" rowspan="1">Once it appears, it goes on a rampage. It remains enraged until it demolishes everything around it.</td></tr><tr><td class="rub">Ruby</td><td class="text" rowspan="3">When MAGIKARP evolves into GYARADOS, its brain cells undergo a structural transformation. It is said that thistransformation is to blame for this Pokemon's wildly violent nature.</td></tr><tr><td class="sap">Sapphire</td></tr><tr><td class="eme">Emerald</td></tr><tr><td class="fir">FireRed</td><td class="text" rowspan="1">It has an extremely aggressive nature. The HYPER BEAM it shoots from its mouth totally incinerates all targets.</td></tr><tr><td class="lea">LeafGreen</td><td class="text" rowspan="1">Rarely seen in the wild. Huge and vicious, it is capable of destroying entire cities in a rage.</td></tr><tr><td class="gol">Gold</td><td class="text" rowspan="1">They say that during past wars, GYARADOS wouldappear and leave blazing ruins in its wake.</td></tr><tr><td class="sil">Silver</td><td class="text" rowspan="1">Once it appears, it goes on a rampage. It remainsenraged until it demolishes everything around it.</td></tr><tr><td class="cry">Crystal</td><td class="text" rowspan="1">It appears whenever there is world conflict,burning down any place it travels through.</td></tr><tr><td class="red">Red</td><td class="text" rowspan="2">Rarely seen in the wild. Huge and vicious, itis capable of destroying entire cities in a rage.</td></tr><tr><td class="blu">Blue</td></tr><tr><td class="yel">Yellow</td><td class="text" rowspan="1">Brutally vicious and enormously destructive.Known for totally destroying cities in ancient times.</td></tr>
+</table>
+</div>
+
+<div class='section' id='other'>
+<h2>
+<img alt="Other" title="Other" src="/pokedex/images/evolutions/general.gif" />
+Other
+</h2>
+<table id='etymology'>
+<colgroup class='label'></colgroup>
+<tr>
+<th>Name Etymology</th>
+<td class='text'>As in gyro, a spinning action</td>
+</tr>
+</table>
+<div id='comments'>
+<script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script>
+<fb:comments href="http://pokedream.com/pokedex/pokemon/gyarados" num_posts="2" width="590"></fb:comments>
+</div>
+</div>
+
+<table id="previous_next"><tr><td class="previous"><a href="/pokedex/pokemon/magikarp">&larr; <img src="/pokedex/images/mini/129.gif" alt="129" /> #129 Magikarp </a></td><td class="next"><a href="/pokedex/pokemon/lapras"> #131 Lapras <img src="/pokedex/images/mini/131.gif" alt="131" /> &rarr;</a></td></tr></table>
+</div>
+<div class="popover"><div class="arrow"></div><div class="content"></div></div>
+
+
+  <div class="fb-like" id="like-button" data-href="http://pokedream.com/pokedex/pokemon/gyarados" data-send="true" data-width="450" data-show-faces="false"data-font="arial"></div>
+
+  <!-- end content -->
+  </div>
+</div>
+
+<div id="footer" class="">
+  <div id="gg-bot" class="gg">
+    <script type="text/javascript">
+      google_ad_client = "pub-1751948200611368";
+      /* 728x90, created 1/2/09 */
+      google_ad_slot = "0787402282";
+      google_ad_width = 728;
+      google_ad_height = 90;
+    </script>
+    <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+  </div>
+</div>
+
+<script src="/layout/js/jquery.js" type="text/javascript"></script>
+<script src="/layout/js/PDPokedexSearch.js" type="text/javascript"></script>
+<script src="/layout/js/PDPokedexDesktopSearch.js" type="text/javascript"></script>
+<script src="/layout/js/pokedream.js" type="text/javascript"></script>
+<script src="/pokedex/javascripts/pokedex.js"></script>
+
+<!-- Google Analytics -->
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+<script type="text/javascript">
+_uacct = "UA-297936-1";
+urchinTracker();
+</script>
+
+<!-- fb -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=227392163968843";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>
+
+<!-- R 2.2.1, 4.2.5 -->
+
+</body>
+</html>

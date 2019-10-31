@@ -1,0 +1,9 @@
+<tr class='alt UILinkedTableRow'>
+<td class='poliwag'>
+<a class="rowLink" href="/pokedex/pokemon/poliwag"><img src="/pokedex/images/mini/060.png" alt="060" />Poliwag</a>
+</td>
+<td>060</td>
+<td>---</td>
+<td class="water"><img src="/pokedex/images/types/water.gif" alt="Water" /></td>
+<td></td>
+<td>40</td><td>50</td><td>40</td><td>40</td><td>40</td><td>90</td><td>300</td>

@@ -1,0 +1,9 @@
+<tr class=' UILinkedTableRow'>
+<td class='bulbasaur'>
+<a class="rowLink" href="/pokedex/pokemon/bulbasaur"><img src="/pokedex/images/mini/001.png" alt="001" />Bulbasaur</a>
+</td>
+<td>001</td>
+<td>---</td>
+<td class="grass"><img src="/pokedex/images/types/grass.gif" alt="Grass" /></td>
+<td class="poison"><img src="/pokedex/images/types/poison.gif" alt="Poison" /></td>
+<td>45</td><td>49</td><td>49</td><td>65</td><td>65</td><td>45</td><td>318</td>

@@ -1,0 +1,9 @@
+<tr class='alt UILinkedTableRow'>
+<td class='exeggcute'>
+<a class="rowLink" href="/pokedex/pokemon/exeggcute"><img src="/pokedex/images/mini/102.png" alt="102" />Exeggcute</a>
+</td>
+<td>102</td>
+<td>---</td>
+<td class="grass"><img src="/pokedex/images/types/grass.gif" alt="Grass" /></td>
+<td class="psychic"><img src="/pokedex/images/types/psychic.gif" alt="Psychic" /></td>
+<td>60</td><td>40</td><td>80</td><td>60</td><td>45</td><td>40</td><td>325</td>

@@ -1,0 +1,9 @@
+<tr class=' UILinkedTableRow'>
+<td class='scyther'>
+<a class="rowLink" href="/pokedex/pokemon/scyther"><img src="/pokedex/images/mini/123.png" alt="123" />Scyther</a>
+</td>
+<td>123</td>
+<td>---</td>
+<td class="bug"><img src="/pokedex/images/types/bug.gif" alt="Bug" /></td>
+<td class="flying"><img src="/pokedex/images/types/flying.gif" alt="Flying" /></td>
+<td>70</td><td>110</td><td>80</td><td>55</td><td>80</td><td>105</td><td>500</td>

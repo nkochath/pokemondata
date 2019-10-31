@@ -1,0 +1,9 @@
+<tr class=' UILinkedTableRow'>
+<td class='exeggutor'>
+<a class="rowLink" href="/pokedex/pokemon/exeggutor"><img src="/pokedex/images/mini/103.png" alt="103" />Exeggutor</a>
+</td>
+<td>103</td>
+<td>---</td>
+<td class="grass"><img src="/pokedex/images/types/grass.gif" alt="Grass" /></td>
+<td class="psychic"><img src="/pokedex/images/types/psychic.gif" alt="Psychic" /></td>
+<td>95</td><td>95</td><td>85</td><td>125</td><td>65</td><td>55</td><td>520</td>

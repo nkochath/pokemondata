@@ -1,0 +1,9 @@
+<tr class='alt UILinkedTableRow'>
+<td class='magneton'>
+<a class="rowLink" href="/pokedex/pokemon/magneton"><img src="/pokedex/images/mini/082.png" alt="082" />Magneton</a>
+</td>
+<td>082</td>
+<td>---</td>
+<td class="electric"><img src="/pokedex/images/types/electric.gif" alt="Electric" /></td>
+<td class="steel"><img src="/pokedex/images/types/steel.gif" alt="Steel" /></td>
+<td>50</td><td>60</td><td>95</td><td>120</td><td>70</td><td>70</td><td>465</td>

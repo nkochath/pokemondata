@@ -1,0 +1,9 @@
+<tr class=' UILinkedTableRow'>
+<td class='marowak'>
+<a class="rowLink" href="/pokedex/pokemon/marowak"><img src="/pokedex/images/mini/105.png" alt="105" />Marowak</a>
+</td>
+<td>105</td>
+<td>---</td>
+<td class="ground"><img src="/pokedex/images/types/ground.gif" alt="Ground" /></td>
+<td></td>
+<td>60</td><td>80</td><td>110</td><td>50</td><td>80</td><td>45</td><td>425</td>

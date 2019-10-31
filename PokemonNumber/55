@@ -1,0 +1,9 @@
+<tr class=' UILinkedTableRow'>
+<td class='golduck'>
+<a class="rowLink" href="/pokedex/pokemon/golduck"><img src="/pokedex/images/mini/055.png" alt="055" />Golduck</a>
+</td>
+<td>055</td>
+<td>---</td>
+<td class="water"><img src="/pokedex/images/types/water.gif" alt="Water" /></td>
+<td></td>
+<td>80</td><td>82</td><td>78</td><td>95</td><td>80</td><td>85</td><td>500</td>
