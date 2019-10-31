@@ -1,9 +1,0 @@
-<tr class=' UILinkedTableRow'>
-<td class='muk'>
-<a class="rowLink" href="/pokedex/pokemon/muk"><img src="/pokedex/images/mini/089.png" alt="089" />Muk</a>
-</td>
-<td>089</td>
-<td>---</td>
-<td class="poison"><img src="/pokedex/images/types/poison.gif" alt="Poison" /></td>
-<td></td>
-<td>105</td><td>105</td><td>75</td><td>65</td><td>100</td><td>50</td><td>500</td>

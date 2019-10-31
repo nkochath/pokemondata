@@ -1,9 +1,0 @@
-<tr class=' UILinkedTableRow'>
-<td class='rhyhorn'>
-<a class="rowLink" href="/pokedex/pokemon/rhyhorn"><img src="/pokedex/images/mini/111.png" alt="111" />Rhyhorn</a>
-</td>
-<td>111</td>
-<td>---</td>
-<td class="ground"><img src="/pokedex/images/types/ground.gif" alt="Ground" /></td>
-<td class="rock"><img src="/pokedex/images/types/rock.gif" alt="Rock" /></td>
-<td>80</td><td>85</td><td>95</td><td>30</td><td>30</td><td>25</td><td>345</td>

@@ -1,9 +1,0 @@
-<tr class=' UILinkedTableRow'>
-<td class='metapod'>
-<a class="rowLink" href="/pokedex/pokemon/metapod"><img src="/pokedex/images/mini/011.png" alt="011" />Metapod</a>
-</td>
-<td>011</td>
-<td>---</td>
-<td class="bug"><img src="/pokedex/images/types/bug.gif" alt="Bug" /></td>
-<td></td>
-<td>50</td><td>20</td><td>55</td><td>25</td><td>25</td><td>30</td><td>205</td>

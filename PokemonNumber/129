@@ -1,9 +1,0 @@
-<tr class=' UILinkedTableRow'>
-<td class='magikarp'>
-<a class="rowLink" href="/pokedex/pokemon/magikarp"><img src="/pokedex/images/mini/129.png" alt="129" />Magikarp</a>
-</td>
-<td>129</td>
-<td>---</td>
-<td class="water"><img src="/pokedex/images/types/water.gif" alt="Water" /></td>
-<td></td>
-<td>20</td><td>10</td><td>55</td><td>15</td><td>20</td><td>80</td><td>200</td>

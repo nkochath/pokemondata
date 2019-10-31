@@ -1,9 +1,0 @@
-<tr class='alt UILinkedTableRow'>
-<td class='ivysaur'>
-<a class="rowLink" href="/pokedex/pokemon/ivysaur"><img src="/pokedex/images/mini/002.png" alt="002" />Ivysaur</a>
-</td>
-<td>002</td>
-<td>---</td>
-<td class="grass"><img src="/pokedex/images/types/grass.gif" alt="Grass" /></td>
-<td class="poison"><img src="/pokedex/images/types/poison.gif" alt="Poison" /></td>
-<td>60</td><td>62</td><td>63</td><td>80</td><td>80</td><td>60</td><td>405</td>

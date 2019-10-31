@@ -1,9 +1,0 @@
-<tr class=' UILinkedTableRow'>
-<td class='graveler'>
-<a class="rowLink" href="/pokedex/pokemon/graveler"><img src="/pokedex/images/mini/075.png" alt="075" />Graveler</a>
-</td>
-<td>075</td>
-<td>---</td>
-<td class="rock"><img src="/pokedex/images/types/rock.gif" alt="Rock" /></td>
-<td class="ground"><img src="/pokedex/images/types/ground.gif" alt="Ground" /></td>
-<td>55</td><td>95</td><td>115</td><td>45</td><td>45</td><td>35</td><td>390</td>

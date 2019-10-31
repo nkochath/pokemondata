@@ -1,9 +1,0 @@
-<tr class='alt UILinkedTableRow'>
-<td class='pidgey'>
-<a class="rowLink" href="/pokedex/pokemon/pidgey"><img src="/pokedex/images/mini/016.png" alt="016" />Pidgey</a>
-</td>
-<td>016</td>
-<td>---</td>
-<td class="normal"><img src="/pokedex/images/types/normal.gif" alt="Normal" /></td>
-<td class="flying"><img src="/pokedex/images/types/flying.gif" alt="Flying" /></td>
-<td>40</td><td>45</td><td>40</td><td>35</td><td>35</td><td>56</td><td>251</td>
